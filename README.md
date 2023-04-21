@@ -1,7 +1,7 @@
 # MAGD 150
 Here, I have uploaded three projects from this semester. Each section details what is occurring in each project.
 
-## Assignment 1
+## Assignment 6
 #### File: [wilke-6.zip](https://github.com/WilkeJO15/Master/files/11298253/wilke-6.zip)
 For this assignment, I had to achieve the following goals:
 * Create an array, assign values to the array, and print these values
@@ -12,7 +12,7 @@ What I created for this assignment is a black background with white squares fall
 While these squares are falling, a red square follows your mouse as it is moved across the canvas. 
 While the square moves, it fades in color from red to yellow, and eventually disappears. The faster you move the mouse, the more space there is between each square.
 
-## Assignment 2
+## Assignment 7
 #### File: [wilke-4.zip](https://github.com/WilkeJO15/Master/files/11298254/wilke-4.zip)
 For this assignment, I had to achieve the following goals:
 * Draw a shape made from other shapes as its own function
@@ -24,7 +24,7 @@ Brick is composed of several squares in order to achieve the look of a brick blo
 Brick is repreated several times throughout the sketch, with different random rotations and scales for each individual brick.
 In addition to the brick function, the push and pop functions are used to create the brick shape. 
 
-## Assignment 3
+## Assignment 8
 #### File: [wilke-5.zip](https://github.com/WilkeJO15/Master/files/11298255/wilke-5.zip)
 For this assignment, I had to achieve the following goals:
 * Load images to be used in the file and assign variables to the images.
