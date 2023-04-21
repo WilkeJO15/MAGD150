@@ -8,7 +8,7 @@ For this assignment, I had to achieve the following goals:
 * Create motion with these values and draw shapes
 * Utilize for loops and the mouse position to determine motion and values
 
-What I created for this assignment is a black background with white squares falling from the top of the canvas to the bottom at random placements based on the array. _These squares will eventually end._  
+What I created for this assignment is a black background with white squares falling from the top of the canvas to the bottom at random placements based on the array. _These squares will eventually stop._  
 While these squares are falling, a red square follows your mouse as it is moved across the canvas. 
 While the square moves, it fades in color from red to yellow, and eventually disappears. The faster you move the mouse, the more space there is between each square.
 
@@ -33,8 +33,8 @@ For this assignment, I had to achieve the following goals:
 
 What I created for this assignment is a canvas with text, two photos, and a little bit of a gimmick.
 Upon opening the file, you'll see text asking "What could this be?"
-##### Picture 1
+#### Picture 1
 Picture 1 is a .png file of person shrugging and standing next to a question mark. This image changes in scale based on the mouse position.
-##### Picture 2
+#### Picture 2
 Picture 2 is a .gif file of Rick Astley from his "Never Gonna Give You Up" music video. You guessed it... I rickrolled you. This image changes in position based on the mouse position.
 My intention with this file was for the question mark image to cover up most of the canvas, and as the user moves their mouse, the rickroll is revealed. Though it is not perfect, it gets the job done.
